@@ -1,5 +1,4 @@
-- [Uploading 20220127-event-Deep-Learning-with-Python_afternoon.gif…]()
-- 
+ 
 - 👋 Hi, I’m Shubham Dandak!
 - 👀 I’m interested in Data exploration and understanding
 - 🌱 I’m currently learning Machine Learning, Deep learning, NLP
